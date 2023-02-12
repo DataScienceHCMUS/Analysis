@@ -9,6 +9,8 @@ pandas = "*"
 jupyter = "*"
 seaborn = "*"
 matplotlib = "*"
+plotly = "*"
+tqdm = "*"
 
 [dev-packages]
 
