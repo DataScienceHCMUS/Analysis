@@ -11,6 +11,8 @@ seaborn = "*"
 matplotlib = "*"
 plotly = "*"
 tqdm = "*"
+scipy = "*"
+mlxtend = "*"
 
 [dev-packages]
 
