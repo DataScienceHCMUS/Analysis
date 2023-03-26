@@ -15,6 +15,8 @@ scipy = "*"
 mlxtend = "*"
 dtreeviz = "*"
 pexpect = "*"
+xgboost = "*"
+lightgbm = "*"
 
 [dev-packages]
 
