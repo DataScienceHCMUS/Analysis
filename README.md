@@ -1,7 +1,11 @@
 # Analysis
-Pratice data analysis on certain datasetsets
+Pratice data analysis on certain datasetsets. Most of them are from Kaggle.
+
+Especially, the House Price notebook is from the competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
 ## Set Up
+
+This section is for those who want to run the notebooks on their local machine.
 
 1. Install pipenv
 ```shell
